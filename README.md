@@ -1,9 +1,6 @@
 
-mnist is basic datasets      
-is it datasets that contain 28 * 28 size images of hand written digits 0-9
-
-this is first tensorflow tutorila they provide but with some changes 
-predicted and draw the predicted number
+predict with your own data  
+create a classification to predict image with deep learning
 
 *Requirements**    
 Tensorflow  
